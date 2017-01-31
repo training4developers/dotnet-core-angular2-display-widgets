@@ -1,6 +1,6 @@
 # .NET Core + Angular 2 Tutorial - Part 2
 
-Read the tutorial here: [https://www.accelebrate.com/library/tutorials/angular2-net-core-data-table](http://www.accelebrate.com)
+Read the tutorial here: [https://www.accelebrate.com/library/tutorials/angular2-net-core-data-table](https://www.accelebrate.com/library/tutorials/angular2-net-core-data-table)
 
 ## Quick Instructions
 
