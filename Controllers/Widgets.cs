@@ -1,8 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Authorization;
 
 using Training4Developers.Interfaces;
-using Training4Developers.Models;
 
 namespace Training4Developers.Controllers
 {
